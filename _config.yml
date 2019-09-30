@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Intellego!"
+title                    : "Jing's Website"
 title_separator          : "-"
 name                     : &name "Jing Liao"
 description              : &description "Ph.D candidate at Zhejiang University"

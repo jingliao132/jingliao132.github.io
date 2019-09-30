@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jing"
+  name             : "Jing Liao"
   avatar           : "profile.png"
   bio              : "Ph.D candidate of Digital Art and Design. My primary interests are computational tools that serve human interests, action-taking and decision-making in design activity"
   location         : "Hangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jing_Liao7"
   uri              :
   bitbucket        :
   codepen          :

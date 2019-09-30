@@ -12,13 +12,13 @@ redirect_from:
 I am the Ph.D candidate of Digital Art and Design at the college of Computer Science and Technology. My primary interests are   **computational tools that serve human interests, action-taking and decision-making in design activity**, including design cognition theories that explains how designers perceive, understand, communicate and transform visual and semantic information, and HCI practice and guidelines that provide assistive tools in cognitive processes. My goal is an framework of human-machine integrated design method. Currently, I am working on adaptive interaction techniques, aiming to provide design assists that include individual difference of design ideation.
 
 ## Hobby
-I love traveling. I am also an amateur photographer and an advanced open water diver. Most [works](https://jingliao132.github.io/portfolio) are scenaries captured in travels.
+I love traveling. I am also an amateur photographer and an advanced open water diver. Many [works](https://jingliao132.github.io/portfolio) are captured during travels.
 
 ## Experience
 - Singapore University of Technology and Design (SUTD), **Visiting Fellow & Teaching Assist**, Dec 2018 - Dec 2019
-- Volunteer at the International Doctoral Students Conference, Hangzhou, May 2017
-- Campus design workshop (Alibaba & Zhejiang Univ.), Hangzhou, China, Mar 2017
-- Campus design workshop (Naiver & Yonsei Univ.), Seoul, Korea, Jan 2017
+- **Volunteer** of the International Doctoral Students Conference, Hangzhou, May 2017
+- **Group Leader** in Campus design workshop (Alibaba & Zhejiang Univ.), Hangzhou, China, Mar 2017
+- Group Member in Campus design workshop (Naiver & Yonsei Univ.), Seoul, Korea, Jan 2017
 - Cadres of Doctoral Student Institute, Zhejiang University, Sept 2016 - Sept, 2017
 
 ## Research Area and Interests

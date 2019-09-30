@@ -26,12 +26,13 @@ redirect_from:
   
 ## Skills
 * Programming experience (Python, Matlab, C++, PHP, JAVA, SQL)
-* Problem Setting and Solving
-* Teamwork Coordination
 * Deep Learning Framework
   * pytorch
   * torch
   * keras
+* Problem Setting and Solving
+* Teamwork Coordination
+
 
 ## Publications
   <ul>{% for post in site.publications %}

@@ -41,7 +41,7 @@ redirect_from:
   
 ## Projects
   <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-projects-cv.html %}
   {% endfor %}</ul>
   
   

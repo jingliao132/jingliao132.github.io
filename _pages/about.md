@@ -21,11 +21,10 @@ I love traveling. I am also an amateur photographer and an advanced open water d
 - Campus design workshop (Naiver & Yonsei Univ.), Seoul, Korea, Jan 2017
 - Cadres of Doctoral Student Institute, Zhejiang University, Sept 2016 - Sept, 2017
 
-## Research
-Human-Computer Interaction, Computer-Aided Design
+## Research Area and Interests
+- Human-Computer Interaction, Computer-Aided Design, Machine Learning,
+  - Intelligent Design Tools, Design Creativity
 
-### Interests
-Intelligent Design Tools, Design Creativity, Machine Learning
 
 ## Conference Activity
 - The 20th International Conference on Human-Computer Interaction (HCII), Las Vegas, USA, 2018

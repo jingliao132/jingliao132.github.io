@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in Computer Science and Technology, South China University of Technology, 2016
 * Ph.D in Digital Design and Art, Zhejiang University, 2021 (expected)
 
-Work experience
-======
+## Work experience
 * Dec 2018 - Aug 2019: Visiting Fellow
   * Singapore University of Technology and Design
   * Duties included: Design algorithms for Natural Language Processing Problems
@@ -26,29 +24,26 @@ Work experience
   * Duties included: Engaging discussions
   * Supervisor: Professor Li Xiangdong
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
+* Programming experience (Python, Matlab, C++, PHP, JAVA, SQL)
+* Problem Setting and Solving
+* Teamwork Coordination
+* Deep Learning Framework
+  * pytorch
+  * torch
+  * keras
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Projects
-======
+## Projects
   <ul>{% for post in site.projects %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
   
-Service and leadership
-======
+## Service and leadership
 * Leading “National university independent research project for undergraduate students of scientific research"
 * Leading group C in 2017 international campus design workshop

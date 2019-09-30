@@ -22,9 +22,10 @@ I love traveling. I am also an amateur photographer and an advanced open water d
 - Cadres of Doctoral Student Institute, Zhejiang University, Sept 2016 - Sept, 2017
 
 ## Research Area and Interests
-- Human-Computer Interaction, Computer-Aided Design, Machine Learning,
+- Human-Computer Interaction, Computer-Aided Design
   - Intelligent Design Tools, Design Creativity
-
+- Machine Learning
+  - Sentiment Analysis
 
 ## Conference Activity
 - The 20th International Conference on Human-Computer Interaction (HCII), Las Vegas, USA, 2018

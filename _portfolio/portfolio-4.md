@@ -1,6 +1,6 @@
 ---
 title: "Forests"
-excerpt: "Deep<br/><img src='/images/forests.jpg'>"
+excerpt: "Deep<br/><img src='/images/mount.jpg'>"
 collection: portfolio
 ---
 # There is always stories in forests.<br>

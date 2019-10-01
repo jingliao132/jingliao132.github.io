@@ -1,6 +1,6 @@
 ---
 title: "Culture"
-excerpt: "Shrine<br/><img src='/images/shrine.jpg'>"
+excerpt: "Shrine<br/><img src='/images/shrine.JPG'>"
 collection: portfolio
 ---
 # Symbols of human.<br>

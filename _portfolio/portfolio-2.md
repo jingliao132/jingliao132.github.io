@@ -1,6 +1,6 @@
 ---
 title: "Animals"
-excerpt: "Naughty Nara deer.<br/><img src='/images/deer.jpg'>"
+excerpt: "Naughty Nara deer<br/><img src='/images/deer.jpg'>"
 collection: portfolio
 ---
 # Everything has a soul, or why are these animals so cute?

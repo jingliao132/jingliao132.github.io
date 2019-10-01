@@ -3,7 +3,7 @@ title: "Water"
 excerpt: "Nameless lake in winter's Halar<br/><img src='/images/halar.jpg'>"
 collection: portfolio
 ---
-# The wise appreciate water.<br>
+# The water includes all.<br>
 
 ## Nameless Inland Lake
 The beautiful lake is found in trip to the border between Russia and Inner Mogolia, on the way to Halar.<br>

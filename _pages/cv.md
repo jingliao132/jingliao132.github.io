@@ -46,5 +46,6 @@ redirect_from:
   
   
 ## Service and leadership
+* Alumni of [StatNLP](http://www.statnlp.org/) Lab in Singapore University of Technology and Design
 * Leading “National university independent research project for undergraduate students of scientific research"
 * Leading group C in 2017 international campus design workshop

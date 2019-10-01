@@ -1,6 +1,6 @@
 ---
 title: "Animals"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Dull but fast<br/><img src='/images/fish.jpg'>"
 collection: portfolio
 ---
 # Everything has a soul, or why are these animals so cute?

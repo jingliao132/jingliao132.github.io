@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deconstruction Learning"
+title                    : "Learn By Deconstruction"
 title_separator          : "-"
 name                     : &name "Jing Liao"
 description              : &description "Ph.D candidate at Zhejiang University"

@@ -25,7 +25,7 @@ I love traveling. I am also an amateur photographer and an advanced open water d
 - Human-Computer Interaction, Computer-Aided Design
   - Intelligent Design Tools, Design Creativity
 - Machine Learning
-  - Sentiment Analysis
+  - Text Classification, Multimodel Learning
 
 ## Conference Activity
 - The 20th International Conference on Human-Computer Interaction (HCII), Las Vegas, USA, 2018
@@ -33,10 +33,10 @@ I love traveling. I am also an amateur photographer and an advanced open water d
 - The 15th International Conference on Machine Learning and Cybernetics (ICMLC), Jeju, Korea, 2016
 
 ## Projects
-- [AI and Design Inspiration](https://github.com/jingliao132/ThoughtRender) (Ongoing)
-- [Computational Supports for Data-driven Business Design](https://github.com/jingliao132/Busiwatch) (Ongoing)
-- Interactive Design Tools (2016 - 2017)
-- Undersampling Method for Pattern Recognition in Non-stationary Environment (2015 - 2016)
+- AI and Design Inspiration (Ongoing)
+- Computational Supports for Data-driven Business Design (Ongoing)
+- [Interactive Design Tools](https://jingliao132.github.io/projects/2016-2017-project1) (2016 - 2017)
+- [Undersampling Method for Pattern Recognition in Non-stationary Environment](https://jingliao132.github.io/projects/2015-2016-project0) (2015 - 2016)
 
 ## Software Copyright
 Interactive evolutionary model & color design system (2017)

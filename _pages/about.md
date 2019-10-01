@@ -35,7 +35,7 @@ I love traveling. I am also an amateur photographer and an advanced open water d
 ## Projects
 - AI and Design Inspiration (Ongoing)
 - Computational Supports for Data-driven Business Design (Ongoing)
-- [Interactive Design Tools](https://jingliao132.github.io/projects/2016-2017-project1) (2016 - 2017)
+- [Interactive Design Tools](https://jingliao132.github.io/projects/2017-2018-project1) (2017 - 2018)
 - [Undersampling Method for Pattern Recognition in Non-stationary Environment](https://jingliao132.github.io/projects/2015-2016-project0) (2015 - 2016)
 
 ## Software Copyright

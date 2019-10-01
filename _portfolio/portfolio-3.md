@@ -6,7 +6,7 @@ collection: portfolio
 # The wise appreciate water.<br>
 
 ## Nameless Inland Lake
-The beautiful lake is found in trip to the border between Russia and inner Mogolia, on the way to Halar.<br>
+The beautiful lake is found in trip to the border between Russia and Inner Mogolia, on the way to Halar.<br>
 <img src='/images/halar.jpg'>
 
 ## The West Lake

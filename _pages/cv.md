@@ -27,12 +27,9 @@ redirect_from:
 ## Skills
 * Programming experience (Python, Matlab, C++, PHP, JAVA, SQL)
 * Deep Learning Framework
-  * pytorch
-  * torch
+  * pytorch, torch
   * keras
-* Problem Setting and Solving
-* Teamwork Coordination
-
+* Transfer Thinking
 
 ## Publications
   <ul>{% for post in site.publications %}

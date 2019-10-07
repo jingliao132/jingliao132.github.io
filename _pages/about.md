@@ -30,10 +30,11 @@ I love traveling. I am also an amateur photographer and advanced open water dive
 ## Projects
 - AI and Design Inspiration (Ongoing)
 - Computational Supports for Data-driven Business Design (Ongoing)
-- [Interactive Design Tools](https://jingliao132.github.io/projects/2017-2018-project1) (2017 - 2018)
+- [Design Optimization with Genetic Algorithm (DOGA)](https://jingliao132.github.io/projects/2017-2018-project1) (2017 - 2018)
 - [Undersampling Method for Pattern Recognition in Non-stationary Environment](https://jingliao132.github.io/projects/2015-2016-project0) (2015 - 2016)
 
 ## Conference Activity
+- The 2019 Singapore Symposium on Natural Language Processing (SSNLP), Singapore, 2019
 - The 20th International Conference on Human-Computer Interaction (HCII), Las Vegas, USA, 2018
 - The 1st Smart Products Through-Life Design Theories, Methods and Tools, Xian, China, 2018
 - The 15th International Conference on Machine Learning and Cybernetics (ICMLC), Jeju, Korea, 2016

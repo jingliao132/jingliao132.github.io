@@ -10,4 +10,5 @@ Fushimi Inari-taisha.<br>
 <img src='/images/shrine.JPG'>
 
 ## Mother
+Malay family.
 <img src='/images/mother.jpg'>

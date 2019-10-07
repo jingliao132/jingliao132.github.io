@@ -25,7 +25,7 @@ I love traveling. I am also an amateur photographer and advanced open water dive
 - Human-Computer Interaction, Computer-Aided Design
   - Intelligent Design Tools, Design Creativity
 - Machine Learning
-  - Text Classification, Multimodel Learning
+  - Natural Language Understanding, Multimodel Learning
 
 ## Projects
 - AI and Design Inspiration (Ongoing)

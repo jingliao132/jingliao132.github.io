@@ -22,7 +22,7 @@ I love traveling. I am also an amateur photographer and advanced open water dive
 - Cadres of Doctoral Student Institute, Zhejiang University, Sept 2016 - Sept, 2017
 
 ## Research Area and Interests
-- Human-Computer Interaction, Computer-Aided Design
+- Human-Computer Interaction, Design Supports
   - Intelligent Design Tools, Design Creativity
 - Machine Learning
   - Natural Language Understanding, Multimodel Learning

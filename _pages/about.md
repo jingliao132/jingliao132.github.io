@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Bio
-I am a Ph.D candidate of Digital Art and Design at the college of Computer Science and Technology. My primary interests are   **computational tools that serve human interests, action-taking and decision-making in design activity**. I hope to distribute knowledge of computer science to the field of human creation. My goal is to build a human-machine integrated design framework. Currently, I am working on design cognition theories that explain designers perceive, understand, communicate and transform visual and semantic information; as well as adaptive interaction techniques that accommodate individual traits in designing.
+I am a Ph.D candidate of Digital Art and Design at the College of Computer Science and Technology. I have Machine Learning undergraduate background. My primary interests are **computational tools that serve human interests, action-taking, decision-making in design and creative activity**. My research aim is to distribute knowledge of computer science to the field of human creation. Currently, I am engaged in design cognition theories that explain designers perceive, understand, communicate and transform visual and semantic information; adaptive interaction techniques that accommodate individual traits in designing, and a framework of a human-computer integrated design.
 
 ## Hobby
 I love traveling. I am also an amateur photographer and advanced open water diver. You may find beautiful moments and interesting thoughts at [here](https://jingliao132.github.io/portfolio).

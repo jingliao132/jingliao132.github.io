@@ -34,7 +34,7 @@ I love traveling. I am also an amateur photographer and advanced open water dive
 - [Undersampling Method for Pattern Recognition in Non-stationary Environment](https://jingliao132.github.io/projects/2015-2016-project0) (2015 - 2016)
 
 ## Conference Activity
-- The 2019 Singapore Symposium on Natural Language Processing (SSNLP), Singapore, 2019 (**Poster**)
+- The 2019 Singapore Symposium on Natural Language Processing (SSNLP), Singapore, 2019
 - The 20th International Conference on Human-Computer Interaction (HCII), Las Vegas, USA, 2018 (**Oral**)
 - The 1st Smart Products Through-Life Design Theories, Methods and Tools, Xian, China, 2018 (**Oral**)
 - The 15th International Conference on Machine Learning and Cybernetics (ICMLC), Jeju, Korea, 2016 (**Oral**)

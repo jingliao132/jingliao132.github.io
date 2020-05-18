@@ -24,7 +24,7 @@ redirect_from:
   * Duties included: Engaging discussions
   * Supervisor: Professor Li Xiangdong
 
-* Jan 2020 - Mar 2020: Research Intern
+* Jan - Mar 2020: Research Intern
   * ByteDance AI Lab, Language and Information Technology Group (LITG)
   * Duties included: Research on NLP tasks related to Large-Scale Knowledge Graph
   * Supervisor: Dr.Li Hang

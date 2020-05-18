@@ -15,7 +15,7 @@ I am a Ph.D candidate of Digital Art and Design at the College of Computer Scien
 I love traveling. I am also an amateur photographer and advanced open water diver. You may find beautiful moments and interesting thoughts at [here](https://jingliao132.github.io/portfolio).
 
 ## Experience
-- ByteDance AI Lab, **Research Intern**, Jan 2020 - Mar 2020
+- ByteDance AI Lab, **Research Intern**, Beijing, China, Jan 2020 - Mar 2020
 - Singapore University of Technology and Design (SUTD), **Visiting Fellow & Teaching Assistant**, Dec 2018 - Dec 2019
 - **Volunteer** of the International Doctoral Students Conference, Hangzhou, May 2017
 - **Group Leader** in Campus design workshop (Alibaba & Zhejiang Univ.), Hangzhou, China, Mar 2017

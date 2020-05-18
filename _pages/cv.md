@@ -23,6 +23,11 @@ redirect_from:
   * Singapore University of Technology and Design
   * Duties included: Engaging discussions
   * Supervisor: Professor Li Xiangdong
+
+* Jan 2020 - Mar 2020: Research Fellow
+  * ByteDance AI Lab, Language and Information Technology Group (LITG)
+  * Duties included: Research on NLP tasks related to Large-Scale Knowledge Graph
+  * Supervisor: Dr.Li Hang
   
 ## Skills
 * Programming experience (Python, Matlab, C++, PHP, JAVA, SQL)

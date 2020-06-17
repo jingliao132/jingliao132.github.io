@@ -14,27 +14,27 @@ redirect_from:
 * Ph.D in Digital Design and Art, Zhejiang University, 2021 (expected)
 
 ## Work experience
-* Dec 2018 - Aug 2019: Visiting Fellow
-  * Singapore University of Technology and Design
-  * Duties included: Design algorithms for Natural Language Processing Problems
-  * Supervisor: Professor Lu Wei
+* Jan - Mar 2020: Research Intern
+  * ByteDance AI Lab, Language and Information Technology Group (LITG)
+  * Duties included: Research on NLP tasks related to Large-Scale Knowledge Graph
+  * Supervisor: Dr.Li Hang
 
 * Fall 2019: Teaching Assistant
   * Singapore University of Technology and Design
   * Duties included: Engaging discussions
   * Supervisor: Professor Li Xiangdong
-
-* Jan - Mar 2020: Research Intern
-  * ByteDance AI Lab, Language and Information Technology Group (LITG)
-  * Duties included: Research on NLP tasks related to Large-Scale Knowledge Graph
-  * Supervisor: Dr.Li Hang
   
+* Dec 2018 - Aug 2019: Visiting Fellow
+  * Singapore University of Technology and Design
+  * Duties included: Design algorithms for Natural Language Processing Problems
+  * Supervisor: Professor Lu Wei
+
 ## Skills
 * Programming experience (Python, Matlab, C++, PHP, JAVA, SQL)
 * Deep Learning Framework
   * pytorch, torch
   * keras
-* Transfer Thinking
+* Design Thinking
 
 ## Publications
   <ul>{% for post in site.publications %}

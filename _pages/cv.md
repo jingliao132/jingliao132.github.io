@@ -16,7 +16,7 @@ redirect_from:
 ## Work experience
 * Jan - Mar 2020: Research Intern
   * ByteDance AI Lab, Language and Information Technology Group (LITG)
-  * Duties included: Research on NLP tasks related to Large-Scale Knowledge Graph
+  * Duties included: NLP Research on Large-Scale Knowledge Graph
   * Supervisor: Dr.Li Hang
 
 * Fall 2019: Teaching Assistant

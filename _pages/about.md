@@ -24,13 +24,13 @@ I love traveling. I am also an amateur photographer and advanced open water dive
 
 ## Research Area and Interests
 - Human-Computer Interaction, Design Supports
-  - Intelligent Design Tools, Design Creativity
+  - Intelligent Design Tools, Design Creativity, Intelligent Interactive System
 - Machine Learning
-  - Natural Language Understanding, Multimodel Learning
+  - Natural Language Understanding, Image Synthesis
 
 ## Projects
-- AI and Design Inspiration (Ongoing)
-- Computational Supports for Data-driven Business Design (Ongoing)
+- [AI and Design Inspiration (Ongoing)](https://jingliao132.github.io/projects/2018-2019-project3)
+- [Data-driven Business Intelligence Support (Ongoing)](https://jingliao132.github.io/projects/2018-2019-project2)
 - [Design Optimization with Genetic Algorithm (DOGA)](https://jingliao132.github.io/projects/2017-2018-project1) (2017 - 2018)
 - [Undersampling Method for Pattern Recognition in Non-stationary Environment](https://jingliao132.github.io/projects/2015-2016-project0) (2015 - 2016)
 

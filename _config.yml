@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Learn By Deconstruction"
 title_separator          : "-"
 name                     : &name "Jing Liao"
-description              : &description "Ph.D candidate at Zhejiang University"
+description              : &description "Ph.D. candidate at Zhejiang University"
 url                      : https://jingliao132.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jingliao132.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jing Liao"
   avatar           : "profile.jpg"
-  bio              : "Ph.D candidate at Zhejiang University, specialist in machine learning and design supports."
+  bio              : "Ph.D candidate at Zhejiang University, specialist in machine learning and creativity support."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

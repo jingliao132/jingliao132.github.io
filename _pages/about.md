@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Bio
-I am a Ph.D candidate of Digital Art and Design at the College of Computer Science and Technology. I have Machine Learning undergraduate background. My primary interests are **computational tools that serve human interests, action-taking, decision-making in design and creative activity**. My research aim is to distribute knowledge of computer science to the field of human creation. Currently, I am engaged in design cognition theories that explain designers perceive, understand, communicate and transform visual and semantic information; adaptive interaction techniques that accommodate individual traits in designing, and a framework of a human-computer integrated design.
+I am a Ph.D. candidate in Digital Art and Design at Zhejiang University. I received a bachelor degree in Computer Science and Technology at the South China University of China, where I joined the Machine Learning and Cybernetic Lab. My primary interests are **computational support tools in design and creative activities, aiming to serve designers' needs in action-taking and decision-making**. My research aim is to distribute knowledge in computer science to the design and creativity community. Currently, I am engaged in design cognition about how designers perceive, understand, process, and communicate visual and semantic information; adaptive interaction techniques that accommodate individual traits in designing, and interactive interface for human-computer collaborative design.
 
 ## Hobby
 I love traveling. I am also an amateur photographer and advanced open water diver. You may find beautiful moments and interesting thoughts at [here](https://jingliao132.github.io/portfolio).
@@ -41,4 +41,4 @@ I love traveling. I am also an amateur photographer and advanced open water dive
 - The 15th International Conference on Machine Learning and Cybernetics (ICMLC), Jeju, Korea, 2016 (**Oral**)
 
 ## Software Copyright
-Interactive evolutionary model & color design system (2017)
+Interactive evolutionary model design system (2018SR677615) & Interactive evolutionary color design system (2018SR677619)

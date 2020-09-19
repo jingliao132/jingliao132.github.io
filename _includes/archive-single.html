@@ -55,10 +55,10 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    <!-- {% if post.citation and post.paperurl %}
+    {% if post.citation and post.paperurl %}
       <p>Citation: {{ post.citation }} </p>
-      <p><a href=" {{ post.paperurl }} ">Download</a></p> 
-      {% endif %}-->
+      <p><a href=" {{ post.paperurl }} ">Link</a></p> 
+    {% endif %}
     {% if post.keywords %}
       <p>Keywords: {{ post.keywords }} </p>
     {% endif %}

@@ -37,12 +37,12 @@ redirect_from:
 * Design Thinking
 
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Projects
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-projects-cv.html %}
   {% endfor %}</ul>
   

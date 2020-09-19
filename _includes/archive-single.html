@@ -56,8 +56,9 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Citation: {{ post.citation }} </p>
-      <p><a href=" {{ post.paperurl }} ">Link</a></p> 
+      <p>Citation: {{ post.citation }} , 
+        <a href=" {{ post.paperurl }} ">Link</a>
+      </p>
     {% endif %}
     {% if post.keywords %}
       <p>Keywords: {{ post.keywords }} </p>
